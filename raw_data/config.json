@@ -1,0 +1,28 @@
+[
+    {
+        "riddle": "Where did we first meet?",
+        "answer": "Starbucks",
+        "hint": "Coffee...",
+        "content": {
+            "text": "It was a rainy Tuesday, and you were wearing that blue coat...",
+            "image": "example.jpg"
+        }
+    },
+    {
+        "riddle": "What is my favorite color?",
+        "answer": "Blue",
+        "content": {
+            "text": "You guessed it! Here is a photo of us at the beach.",
+            "image": "beach.png"
+        }
+    },
+    {
+        "riddle": "Final Question: Do you love me?",
+        "answer": "Yes",
+        "isFinal": true,
+        "content": {
+            "text": "I knew it! Happy Anniversary! ❤️",
+            "image": "final.jpg"
+        }
+    }
+]
