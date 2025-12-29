@@ -1,0 +1,20 @@
+[
+  {
+    "id": 0,
+    "riddle": "Where did we first meet?",
+    "file": "data/level_0.lock",
+    "hint": "Coffee..."
+  },
+  {
+    "id": 1,
+    "riddle": "What is my favorite color?",
+    "file": "data/level_1.lock",
+    "hint": ""
+  },
+  {
+    "id": 2,
+    "riddle": "Final Question: Do you love me?",
+    "file": "data/level_2.lock",
+    "hint": ""
+  }
+]
